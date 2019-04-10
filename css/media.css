@@ -1,0 +1,430 @@
+/*==========  Desktop First Method  ==========*/
+@media (max-width : 375px) and (min-width: 400px) {
+	.header-text-were h1 {
+	    margin-left: 25px;
+	}
+	.header-text-were .static-word{
+		margin-left: 25px;
+	}
+	.mob-hide{
+		font-size: 13px;
+	}
+	.box{
+		width: 329px;
+		padding: 51px 59px;
+	}
+	.mob-hide {
+	    font-size: 11px;
+	}
+	.header-text-were h1{
+		margin-left: 25px;
+	}
+	.footer-bgr-inside{
+		height: 275px;
+	}
+
+
+}
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 1024px) {
+	.square{
+		margin-left: 60px;
+	}
+	.descr .item{
+		font-size: 11px;
+	}
+	.footer-input{
+		top: -307px;
+    	margin-left: 160px;
+	}
+	.figura-nain-yellow-left{
+		left: -18px;
+	}
+	.figura-left-text{
+		left: 61px;
+	}
+	.box{
+		width: 300px;
+	    height: 369px;
+	    padding: 77px 20px;
+	}
+	.circle{
+		left: 100px;
+	}
+	.main-type_jobs{
+		margin: 0;
+	}
+	.box .btns{
+		margin: 0px 54px;
+	}
+	.popup{
+		left: 29.4%;
+	}
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.square{
+		margin-left: 16px;
+	}
+	.descr .item{
+		font-size: 10px;
+	}
+	.descr p{
+		font-size: 9px;
+	}
+	.descr span{
+		font-size: 9px;
+	}
+	.footer-input{
+		margin-left: 0px;
+	}
+	.footer-btns .btns{
+		margin-left: 0;
+	}
+	.title-main{
+		text-align: center;
+	}
+	.figura-nain-yellow-left{
+		display: none;
+	}
+	.header-text-were h1{
+		margin-left: 46px;
+	}
+	.circle{
+		left: 58px;
+	}
+	.box{
+		width: 235px;
+	    height: 378px;
+	    padding: 63px 0px;
+	}
+	#box-in-3{
+		margin-bottom: 30px;
+	}
+	#box-in-2 {
+    margin-bottom: 29px;
+	}
+	#box-in-1 {
+	    margin-bottom: 35px;
+	}
+	.img-cirle {
+		position: relative;
+	    top: -62px;
+	    left: 57px;
+	}
+	.img-cirle-man{
+		position: relative;
+	    top: -62px;
+	    left: 64px;
+	}
+	.main-profit-cirle-yellow{
+		margin: 54px 0 -50px 80px;
+	}
+	.main-photogallery-select li{
+		font-size: 13px;
+	}
+	.popup{
+		left: 22%;
+	}
+	
+
+
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	.header-black-line i{
+		font-size: 18px;
+	}
+	.header-text-were h1 {
+	    margin-left: 15px;
+	}
+	.header-text-were .static-word{
+		margin-left: 15px;
+	}
+	.header-text-were p{
+		margin-left: 15px;
+	}
+	.header-text-were .btns{
+		margin-left: 15px;
+	}
+	.header-text-were span{
+		padding: 4px 17px;
+	}
+	.footer-input {
+		top: -415px;
+	    margin-left: 0px;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+	    flex-direction: column;
+	    position: relative;
+	}
+	.footer-input-text{
+		margin: 15px 38px;
+		width: 300px;
+    	height: 50px;
+	}
+	.footer-btns{
+		top: -418px;
+	}
+	.footer-btns .btns-footer{
+		width: 175px;
+		line-height: 45px;
+		height: 46px;
+
+	}
+	.figura-right-text{
+		left: 66px;
+	}
+	.main-description h2{
+		margin-left: 0;
+		text-align: center;
+	}
+	.main-description p{
+		margin-right: 0px;
+	}
+	.figura-left-text-mobile{
+	    left: 115px;	
+	}
+	.main-type_jobs h2{
+		text-align: center;
+	}
+	.figura-two{
+		left: 0;
+	}
+	.circle{
+		left: 120px;
+	}
+	.box .btns{
+		margin: 0 51px;
+		width: 132px;
+    	height: 35px;
+    	line-height: 34px;
+	}
+	.main-excellence h2{
+		text-align: center;
+	}
+	.figura-three{
+		left: 45px;
+	}
+	.main-profit h2{
+		text-align: center;
+	}
+	.figura-four{
+		top: -104px;
+    	left: 89px;
+	}
+	.main-profit-cirle-yellow{
+		margin: 54px 0 -50px 189px;
+	}
+	.img-cirle{
+		left: 165px;
+	}
+	.img-cirle-man{
+		left: 174px;
+	}
+	.main-photogallery h2{
+		margin-left: 0px;
+		text-align: center;
+	}
+	.img-gallery{
+		width: 100%
+	}
+	.main-comments h2{
+		margin-left: 0px;
+		text-align: center;
+	}
+	.footer-write h2{
+		text-align: center;
+		margin-left: 0px;
+	}
+	.box {
+		width: 350px;
+	    height: 378px;
+	    padding: 64px 59px;
+	}
+	.box{
+		margin: 0;
+	}
+
+	.main-photogallery-select li{
+    	margin: 12px 12px;
+	}
+	.main-photogallery-select li {
+    	font-size: 18px;
+    	text-align: center;
+	}
+	.footer-name{
+		top: 18px;
+    	right: 132px;
+	}
+	.mob-hide{
+		font-size: 11px;
+	}
+	.main-photogallery-select li:before {
+    display: none;
+	}
+	.footer-bgr-inside{
+		height: 298px;
+	}
+	.popup{
+		left: 0;
+		width: 100%;
+
+	}
+	.callback-form input[type="text"]{
+		width: 90%;
+	}
+	#textarea{
+		width: 90%
+	}
+	.callback-form{
+		align-items: unset;
+	}
+	.popup-form i.fa{
+		left: 154px;
+	}
+
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px){
+	.header-black-line i{
+		font-size: 17px;
+	}
+	.header-text-were h1{
+		margin-left: 15px;
+		font-size: 38px;
+	}
+	.header-text-were .static-word{
+		font-size: 38px;	
+	}
+	.header-text-were p{
+		font-size: 16px;
+	}
+	.header-text-were span{
+		padding: 4px 17px;
+	}
+	.footer-input-text{
+		margin: 15px 0;
+	    width: 265px;
+	    height: 50px;
+	}
+	.footer-input{
+		margin-left: 0;
+	}
+	.btns{
+		margin-left: 0;
+	}
+	.footer-bgr-inside{
+		height: 214px;
+	}
+	#back-to-top {
+	    bottom: 40px;
+	    right: 24px;
+	}
+	.box{
+		margin: 0;
+	}
+	.box {
+	    width: 300px;
+	    height: 378px;
+	    padding: 57px 38px;
+	}
+	.circle {
+	    left: 9px;
+	}
+	.main-profit-cirle-yellow {
+    	margin: 54px 0 -50px 151px;
+	}
+	.img-cirle {
+    	left: 129px;
+	}
+	.img-cirle-man {
+    	left: 135px;
+	}
+	.main-photogallery-select li {
+    	font-size: 17px;
+	}
+	.main-photogallery-select li {
+    	margin: 11px 11px;
+	}
+	.footer-name {
+    	top: 18px;
+ 	   right: 115px;
+	}
+	.footer-input{
+		top: -341px;
+		margin:0;
+	}
+	.footer-btns {
+    	top: -355px;
+	}
+	.mob-hide{
+		font-size: 10px;
+	}
+	.popup{
+		width: 100%;
+
+	}
+	.callback-form input[type="text"]{
+		width: 90%;
+	}
+	#textarea{
+		width: 90%;
+	}
+	.callback-form{
+		align-items: unset;
+	}
+	.popup-form i.fa{
+		left: 122px;
+	}
+	.dropdonw-typejobs{
+		font-size: 14px;
+	}
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	.header-hidden-btn{
+		display: none;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+	.header-hidden-btn{
+		display: none;
+	}
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+		.header-hidden-btn{
+		display: none;
+	}
+}
